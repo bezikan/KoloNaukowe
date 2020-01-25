@@ -1,0 +1,1 @@
+[{"studentId":2,"firstName":"Ewa","lastName":"Nowacka","email":"nowaka1@gmail.com","groupName":"C# ASP.NET"},{"studentId":2002,"firstName":"Adam","lastName":"Kowal","email":"kowal@gmail.com","groupName":"Machine Learning"}]
